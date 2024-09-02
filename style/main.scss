@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  background-color: #292929;
+  color: oklch(0.8576 0 0);
+}
+
+a {
+  color: #0098ff;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+}
+
+.between {
+  display: flex;
+  justify-content: space-between;
+}
